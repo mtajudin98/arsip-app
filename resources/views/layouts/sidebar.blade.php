@@ -18,7 +18,7 @@
         </div>
       </div>
 
-      
+
 
       <!-- Sidebar Menu -->
       <nav class="mt-2">
@@ -30,7 +30,6 @@
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Dashboard
-                <span class="right badge badge-danger">New</span>
               </p>
             </a>
           </li>
